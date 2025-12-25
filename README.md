@@ -54,24 +54,21 @@ Design a backend system for a **multi-floor parking lot** that:
 
 ## 📁 Project Structure
 
+```txt
 src/
-│
 ├── constants/
-│   └── enums.js
-│
+│   ├── enum.js
 ├── models/
 │   ├── Vehicle.js
 │   ├── ParkingSpot.js
 │   ├── ParkingFloor.js
 │   └── ParkingTicket.js
-│
 ├── services/
 │   ├── SpotAllocator.js
 │   └── FeeCalculator.js
-│
 ├── ParkingLot.js
-└── index.js
-
+└──index.js
+```
 
 > ℹ️ Current implementation uses **in-memory storage** for simplicity.
 
