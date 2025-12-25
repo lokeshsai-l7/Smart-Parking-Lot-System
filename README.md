@@ -119,6 +119,8 @@ Ticket → Fee calculated → Spot freed → Ticket closed
 ## ▶️ Example Usage
 
 ```js
+src/index.js
+
 const parkingLot = new ParkingLot();
 
 const floor1 = new ParkingFloor("F1", 1);
