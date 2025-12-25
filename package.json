@@ -1,0 +1,20 @@
+{
+  "name": "smart-parking-lot-system",
+  "version": "1.0.0",
+  "description": "Low-level architecture for a backend system of a smart parking lot.",
+  "homepage": "https://github.com/lokeshsai-l7/Smart-Parking-Lot-System#readme",
+  "bugs": {
+    "url": "https://github.com/lokeshsai-l7/Smart-Parking-Lot-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshsai-l7/Smart-Parking-Lot-System.git"
+  },
+  "license": "ISC",
+  "author": "Lokesh Sai",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
