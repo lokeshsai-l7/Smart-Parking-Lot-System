@@ -1,7 +1,6 @@
 # 🚗 Smart Parking Lot Backend (Node.js – Low Level Design)
 
-This project implements a **Low-Level Design (LLD)** for a **Smart Parking Lot backend system** using **Node.js (ES6 classes)**.  
-It demonstrates object-oriented design, separation of concerns, and real-world backend problem-solving.
+**Smart Parking Lot backend system** using **Node.js (ES6 classes)**.  
 
 ---
 
